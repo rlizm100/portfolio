@@ -28,7 +28,7 @@ This is an updated portfolio site, including
 
     * Email
 
-    * Link to your portfolio
+    * Link to my portfolio
 
 
 ### Updated Resume 
