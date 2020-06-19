@@ -37,3 +37,5 @@ This is an updated portfolio site, including
 
 
 link to site: https://rlizm100.github.io/portfolio/index.html
+
+![portfolio.png](https://github.com/rlizm100/portfolio/blob/master/portfolio.png)
