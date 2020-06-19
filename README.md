@@ -36,4 +36,4 @@ This is an updated portfolio site, including
 * My updated resume is attached in my site.
 
 
-
+link to site: https://rlizm100.github.io/portfolio/index.html
